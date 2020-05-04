@@ -19,3 +19,9 @@
 [submodule "pack/plugins/start/vim-hcl"]
 	path = pack/plugins/start/vim-hcl
 	url = https://github.com/b4b4r07/vim-hcl.git
+[submodule "pack/plugins/start/vim-jsonnet"]
+	path = pack/plugins/start/vim-jsonnet
+	url = https://github.com/google/vim-jsonnet
+[submodule "pack/plugins/start/vim-jq"]
+	path = pack/plugins/start/vim-jq
+	url = https://github.com/vito-c/jq.vim.git
