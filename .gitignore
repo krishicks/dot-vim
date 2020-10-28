@@ -1,0 +1,8 @@
+# netrw files
+.netrwhist
+
+# vim files
+files/
+
+# this is a symlink to where .fzf is cloned
+pack/plugins/start/fzf
