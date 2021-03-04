@@ -31,3 +31,15 @@
 [submodule "pack/plugins/start/markdown-preview"]
 	path = pack/plugins/start/markdown-preview
 	url = https://github.com/iamcco/markdown-preview.nvim.git
+[submodule "pack/plugins/start/ale"]
+	path = pack/plugins/start/ale
+	url = https://github.com/dense-analysis/ale.git
+[submodule "pack/plugins/start/vim-buf"]
+	path = pack/plugins/start/vim-buf
+	url = https://github.com/bufbuild/vim-buf.git
+[submodule "pack/plugins/start/rust.vim"]
+	path = pack/plugins/start/rust.vim
+	url = https://github.com/rust-lang/rust.vim.git
+[submodule "pack/plugins/start/auto-pairs"]
+	path = pack/plugins/start/auto-pairs
+	url = https://github.com/jiangmiao/auto-pairs.git
